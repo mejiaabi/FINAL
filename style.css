@@ -1,15 +1,30 @@
 h1 {
     color: #2c2c2c;
-    background-color: beige;
+    background-color: #ba9e9e;
     text-align: center;
+    font-family: "Bookman Old Style"
 
+
+}
 #Portfolio {
     color: #2c2c2c;
-    background-color: beige;
+    background-color: #ba9e9e;
     text-align: center;
+    font-family: "Bookman Old Style";
 }
 
+#Contact {
+    color: #2c2c2c;
+    background-color: #ba9e9e;
+    text-align: center;
+    font-family: "Bookman Old Style";
+}
 
+p {
+    color: #2c2c2c;
+    font-family: "Bookman Old Style";
+
+}
 
 
 
